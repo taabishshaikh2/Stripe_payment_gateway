@@ -1,7 +1,7 @@
 const router = require("express").Router();
 
-// const stripe = require("stripe")('sk_test_51N8NjkSDjoiiRk8VOxxe7C4FE9uj6PwiaH6i4YY61TAOI3SgKXdlqmFs2qGiaamIjbuZ9hyN2FZYuf1r9iVkh96U00G1nXUnr3');
-const stripe = require("stripe")('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');
+// const stripe = require("stripe")('sk_test_**');
+// const stripe = require("stripe")('sk_live_**');
 
 
 // creating a source
